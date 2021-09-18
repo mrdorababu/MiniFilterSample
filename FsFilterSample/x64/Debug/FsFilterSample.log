@@ -1,0 +1,26 @@
+﻿  Building 'FsFilterSample' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\FsFilterSample.inf
+  Stamping [Version] section with DriverVer=09/18/2021,16.25.12.928
+D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\FsFilterSample.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\FsFilterSample.inf(25-25): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\FsFilterSample.inf(36-36): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\FsFilterSample.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FsFilterSample.c
+  FsFilterSample.vcxproj -> D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\x64\Debug\FsFilterSample.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\x64\Debug\FsFilterSample.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\x64\Debug\FsFilterSample\fsfiltersample.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\x64\Debug\FsFilterSample\fsfiltersample.cat
+  

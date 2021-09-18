@@ -1,0 +1,1 @@
+D:\Work\VisualStudioCpp\FileSysFilterCoding\FsFilterSample\x64\Debug\FsFilterSample.sys
